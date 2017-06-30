@@ -1,0 +1,8 @@
+E:\sandbox\iot\iothub-sample\iothub-cloud\bin\Debug\iothub-cloud.exe.config
+E:\sandbox\iot\iothub-sample\iothub-cloud\bin\Debug\iothub-cloud.exe
+E:\sandbox\iot\iothub-sample\iothub-cloud\bin\Debug\iothub-cloud.pdb
+E:\sandbox\iot\iothub-sample\iothub-cloud\bin\Debug\Microsoft.ServiceBus.dll
+E:\sandbox\iot\iothub-sample\iothub-cloud\bin\Debug\Microsoft.ServiceBus.xml
+E:\sandbox\iot\iothub-sample\iothub-cloud\obj\Debug\iothub-cloud.csprojResolveAssemblyReference.cache
+E:\sandbox\iot\iothub-sample\iothub-cloud\obj\Debug\iothub-cloud.exe
+E:\sandbox\iot\iothub-sample\iothub-cloud\obj\Debug\iothub-cloud.pdb
